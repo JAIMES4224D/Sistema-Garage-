@@ -5,16 +5,30 @@ El sistema registra las placas de los vehículos, controla la hora de entrada y 
 
 ---
 
-## 📌 Características
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-239120?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/)
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-239120?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-- Registro de ingreso de vehículos
-- Registro de salida de vehículos
-- Cálculo automático del costo del estacionamiento
-- Visualización del historial de vehículos
-- Exportación de datos a Excel
-- Visualización de autos actualmente en el garaje
-- Resumen del total recaudado por día
+---
 
+## 📌 Descripción
+
+**SistemaGarage** es una aplicación de escritorio robusta desarrollada en **C#** diseñada para optimizar la gestión de ingresos y egresos de vehículos en garajes o estacionamientos. Permite un control preciso de las placas, tiempos de permanencia, cálculo automático de tarifas y generación de reportes financieros diarios.
+
+Ideal para pequeños y medianos negocios de estacionamiento que buscan digitalizar sus procesos de cobro y control.
+
+---
+
+## ✨ Características Principales
+
+- ✅ **Registro de Ingreso:** Captura de placa y hora de entrada automática.
+- ✅ **Control de Salida:** Cálculo de tiempo y costo basado en tarifas predefinidas.
+- ✅ **Gestión en Tiempo Real:** Visualización de vehículos actualmente estacionados.
+- ✅ **Historial Completo:** Base de datos de todas las operaciones realizadas.
+- ✅ **Reportes Financieros:** Resumen del total recaudado por día.
+- ✅ **Exportación a Excel:** Generación de archivos `.xlsx` para análisis externo.
+- ✅ **Interfaz Intuitiva:** Diseño limpio y fácil de usar.
 ---
 
 ## 🖥️ Interfaz del Sistema
