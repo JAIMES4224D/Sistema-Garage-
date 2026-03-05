@@ -46,3 +46,64 @@ Los datos registrados pueden exportarse para su análisis o almacenamiento exter
 ---
 
 ## 🧱 Estructura del Proyecto
+
+SistemaGarage
+│
+├── Form1.cs
+├── Form1.Designer.cs
+├── Form1.resx
+├── Program.cs
+└── Properties
+
+---
+
+## ⚙️ Tecnologías Utilizadas
+
+- C#
+- Windows Forms
+- .NET Framework
+- Microsoft Visual Studio
+
+---
+
+## 🚀 Cómo Ejecutar el Proyecto
+
+1. Clonar el repositorio
+
+git clone https://github.com/JAIMES4224D/Sistema-Garage-.git
+
+
+2. Abrir el proyecto en **Visual Studio**
+
+3. Ejecutar el programa presionando:
+
+
+---
+
+## 📷 Funcionamiento
+
+El sistema muestra una tabla donde se registran:
+
+- ID
+- Placa del vehículo
+- Hora de entrada
+- Fecha de salida
+- Costo total
+
+Además muestra el **total recaudado del día**.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**.
+
+Ver el archivo **LICENSE** para más detalles.
+
+---
+
+## 👨‍💻 Autor
+
+**Jeferson Jaimes Passuni**
+
+Estudiante de Ingeniería de Sistemas e Informática.
